@@ -76,7 +76,7 @@ global:
 
     # The suffix for large numbers, e.g. 1.3k, 400.2M, etc.
     suffix:
-        thousands: k
+        thousands: K
         millions: M
         billions: B
         trillions: T
@@ -120,7 +120,7 @@ mainMenu:
     play: Jogar
     changelog: Changelog
     importSavegame: Importar
-    openSourceHint: Este jogo é código aberto!
+    openSourceHint: Este jogo é de código aberto!
     discordLink: Discord oficial
     helpTranslate: Ajuda a traduzir!
 
